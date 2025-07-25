@@ -1,7 +1,7 @@
 
 # 💼 Sistem Absensi & Penggajian Karyawan (Laravel 12)
 
-Selamat datang di Sistem Absensi & HRIS — aplikasi web terintegrasi yang dibangun sepenuhnya menggunakan Laravel 12 sebagai studi kasus nyata untuk penerapan arsitektur yang bersih, aman, dan profesional.
+Selamat datang di Sistem Absensi & HRIS - aplikasi web terintegrasi yang dibangun sepenuhnya menggunakan Laravel 12 sebagai studi kasus nyata untuk penerapan arsitektur yang bersih, aman, dan profesional.
 
 Dirancang untuk menyederhanakan manajemen SDM, aplikasi ini mencakup fitur lengkap: absensi harian dengan validasi canggih, alur persetujuan cuti dan lembur, hingga perhitungan gaji otomatis lengkap dengan export PDF. Semua dibungkus dalam antarmuka modern dan responsif berkat Tailwind CSS.
 
@@ -150,4 +150,4 @@ sistem-absensi/
 2. Terapkan format Conventional Commits untuk setiap pesan commit
 3. Pastikan setiap Pull Request hanya mencakup satu fitur atau perbaikan
 
-🙏 Terima kasih atas kontribusinya — kualitas kode kita dimulai dari kamu!
+🙏 Terima kasih atas kontribusinya - kualitas kode kita dimulai dari kamu!
